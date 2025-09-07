@@ -1,4 +1,4 @@
-＃ alpine
+
 ghcr.io/open-webui/open-webui:cuda
 
 #支持私库
